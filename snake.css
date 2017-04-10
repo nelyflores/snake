@@ -1,0 +1,16 @@
+#container{
+
+      height: 500px;
+      width: 500px;
+      outline: 1px solid black;
+      position: relative;
+      background-color: #21610B;
+    }
+    #guy{
+      position: absolute;
+      height: 10px;
+      width: 10px;
+      outline: 1px solid black;
+      background-color: red;
+
+    }
